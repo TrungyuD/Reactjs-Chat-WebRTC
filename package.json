@@ -16,7 +16,7 @@
   "author": "mgechev",
   "license": "MIT",
   "dependencies": {
-    "express": "~4.8.4",
+    "express": "~4.17.3",
     "peer": "~0.2.6",
     "socket.io": "~1.0.6"
   }
